@@ -5,6 +5,6 @@
 # Pemstruk-TugasExprAritmatika.
     Tugas Kelompok.
     Jumlah anggota: Maks 3, Min 2
-Submit salah satu anggota saja, tambahkan nama-nama anggota kelompok di file kode programnya.
+    Submit salah satu anggota saja, tambahkan nama-nama anggota kelompok di file kode programnya.
 
-untuk latihan menjawab soal2 di tugas ini bs dicoba di http://www.hackerrank.com/petruk01
+    untuk latihan menjawab soal2 di tugas ini bs dicoba di http://www.hackerrank.com/petruk01
