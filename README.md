@@ -1,8 +1,7 @@
-# DAFTAR ANGGOTA KELOMPOK:
-Nama dan Npm: 
-1.Franz Kenzo Agusto      (2057051015)
-2.Nasywa Nathania Wirawan (2017051051)
-3.Wina Fadhilah           (2017051056)
+# DAFTAR ANGGOTA KELOMPOK : 
+	Nama : 	1. Franz Kenzo Agusto        (2017051078)
+         	2. Nasywa Nathania Wirawan   (2017051051)
+         	3. Wina Fadhilah             (2017051056)
 # Pemstruk-TugasExprAritmatika.
 Tugas Kelompok
 Jumlah anggota: Maks 3, Min 2
